@@ -19,7 +19,7 @@
   </a>
   </div>
 
-## About
+## About Us
 In the current landscape, many open-source bug bounty platforms inadvertently shut out developers from regions outside the USA and EU, creating barriers to participation and diversity. To address this, Lightning Bounties is revolutionizing open-source development by integrating Bitcoin payments directly into GitHub. This approach aligns with the core principles of the open-source software and Bitcoin movements—decentralization, transparency, and inclusivity—by offering seamless and instantaneous financial rewards to developers globally. By leveraging the Bitcoin Lightning Network, Lightning Bounties ensures that contributions to open-source projects are directly rewarded, fostering a sustainable and thriving community where developers can easily receive compensation for their valuable work
 
 ## How to Contribute
